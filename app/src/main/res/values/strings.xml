@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PM01ExamenGrupo4</string>
+    <string name="title_activity_mapa_actividad">Mapa</string>
+    <string name="Busqueda">Buscar por Id de contacto</string>
+    <string name="GrabarVideo">Grabar Video</string>
+    <string name="Eliminar">Eliminar Contacto</string>
+    <string name="Salvar">Salvar Contacto</string>
+    <string name="Ubicacion">Ubicacion Actual</string>
+    <string name="Actualizar">Actualizar Contacto</string>
+
+</resources>

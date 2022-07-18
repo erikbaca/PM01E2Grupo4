@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PM01ExamenGrupo4/app/src/main/res/drawable/ovalo.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PM01ExamenGrupo4/app/src/main/res/layout/activity_actualizar.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PM01ExamenGrupo4/app/src/main/res/layout/activity_listado.xml" value="0.16" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PM01ExamenGrupo4/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PM01ExamenGrupo4/app/src/main/res/layout/activity_mapa_actividad.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PM01ExamenGrupo4/app/src/main/res/layout/activity_segundo_actividad.xml" value="0.22" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/PM01ExamenGrupo4/app/src/main/res/layout/item_row.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/Desktop/Erik Baca/Movil-1/Segundo Parcial/PM01ExamenGrupo4-master/app/src/main/res/layout/activity_actualizar.xml" value="0.13269927536231885" />
+        <entry key="..\:/Users/Dell/Desktop/Erik Baca/Movil-1/Segundo Parcial/PM01ExamenGrupo4-master/app/src/main/res/layout/activity_segundo_actividad.xml" value="0.13269927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
